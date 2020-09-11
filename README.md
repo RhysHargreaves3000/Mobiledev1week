@@ -4,5 +4,6 @@ as you can probably tell, this code was very rushed, it managed to pass the requ
 
 To download
 1. download zip
+2. extract mobile_dev_version2(make sure this is the main folder)
 
 *this was never meant to be finished code and therefore there is alot of spaghetti code and error, please proceed with that in mind*
